@@ -3,6 +3,34 @@
   <component name="UltimateRestHistory">
     <items>
       <historyItem>
+        <option name="timestamp" value="1785828684310" />
+        <request url="http://localhost:8080/sayHello" />
+      </historyItem>
+      <historyItem>
+        <option name="timestamp" value="1785828684091" />
+        <request url="http://localhost:8080/sayHello" />
+      </historyItem>
+      <historyItem>
+        <option name="timestamp" value="1785828683945" />
+        <request url="http://localhost:8080/sayHello" />
+      </historyItem>
+      <historyItem>
+        <option name="timestamp" value="1785828683793" />
+        <request url="http://localhost:8080/sayHello" />
+      </historyItem>
+      <historyItem>
+        <option name="timestamp" value="1785828683618" />
+        <request url="http://localhost:8080/sayHello" />
+      </historyItem>
+      <historyItem>
+        <option name="timestamp" value="1785828683239" />
+        <request url="http://localhost:8080/sayHello" />
+      </historyItem>
+      <historyItem>
+        <option name="timestamp" value="1785828682639" />
+        <request url="http://localhost:8080/sayHello" />
+      </historyItem>
+      <historyItem>
         <option name="timestamp" value="1785827179494" />
         <request url="http://localhost:8080/sayHello" />
       </historyItem>
