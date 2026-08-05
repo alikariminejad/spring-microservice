@@ -3,6 +3,56 @@
   <component name="UltimateRestHistory">
     <items>
       <historyItem>
+        <option name="timestamp" value="1785938474569" />
+        <request method="POST" url="http://localhost:8080/api/create">
+          <bodyContent>{
+  &quot;name&quot; : &quot;Ali&quot;,
+  &quot;email&quot; : &quot;karimin@gmail.com&quot;,
+  &quot;mobileNumber&quot; : &quot;091818181818181&quot;
+}</bodyContent>
+        </request>
+      </historyItem>
+      <historyItem>
+        <option name="timestamp" value="1785938473683" />
+        <request method="POST" url="http://localhost:8080/api/create">
+          <bodyContent>{
+  &quot;name&quot; : &quot;Ali&quot;,
+  &quot;email&quot; : &quot;karimin@gmail.com&quot;,
+  &quot;mobileNumber&quot; : &quot;091818181818181&quot;
+}</bodyContent>
+        </request>
+      </historyItem>
+      <historyItem>
+        <option name="timestamp" value="1785938469529" />
+        <request method="POST" url="http://localhost:8080/api/create">
+          <bodyContent>{
+  &quot;name&quot; : &quot;Ali&quot;,
+  &quot;email&quot; : &quot;karimin@gmail.com&quot;,
+  &quot;mobileNumber&quot; : &quot;091818181818181&quot;
+}</bodyContent>
+        </request>
+      </historyItem>
+      <historyItem>
+        <option name="timestamp" value="1785938467339" />
+        <request method="POST" url="http://localhost:8080/api/create">
+          <bodyContent>{
+  &quot;name&quot; : &quot;Ali&quot;,
+  &quot;email&quot; : &quot;karimin@gmail.com&quot;,
+  &quot;mobileNumber&quot; : &quot;091818181818181&quot;
+}</bodyContent>
+        </request>
+      </historyItem>
+      <historyItem>
+        <option name="timestamp" value="1785938162651" />
+        <request method="POST" url="http://localhost:8080/api/create">
+          <bodyContent>{
+  &quot;name&quot; : &quot;Ali&quot;,
+  &quot;email&quot; : &quot;karimin@gmail.com&quot;,
+  &quot;mobileNumber&quot; : &quot;091818181818181&quot;
+}</bodyContent>
+        </request>
+      </historyItem>
+      <historyItem>
         <option name="timestamp" value="1785828684310" />
         <request url="http://localhost:8080/sayHello" />
       </historyItem>
