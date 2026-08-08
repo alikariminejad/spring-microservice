@@ -3,6 +3,94 @@
   <component name="UltimateRestHistory">
     <items>
       <historyItem>
+        <option name="timestamp" value="1786169970568" />
+        <request url="http://localhost:8080/api/fetch?mobileNumber=123456">
+          <params>
+            <param name="mobileNumber" value="123456" type="QUERY" dataType="String" />
+          </params>
+        </request>
+      </historyItem>
+      <historyItem>
+        <option name="timestamp" value="1786169960771" />
+        <request url="http://localhost:8080/api/fetch?mobileNumber=1234564">
+          <params>
+            <param name="mobileNumber" value="1234564" type="QUERY" dataType="String" />
+          </params>
+        </request>
+      </historyItem>
+      <historyItem>
+        <option name="timestamp" value="1786169957531" />
+        <request method="POST" url="http://localhost:8080/api/create">
+          <bodyContent>{
+  &quot;name&quot; : &quot;Ali&quot;,
+  &quot;email&quot; : &quot;ali@gmail.com&quot;,
+  &quot;mobileNumber&quot; : &quot;123456&quot;
+}</bodyContent>
+        </request>
+      </historyItem>
+      <historyItem>
+        <option name="timestamp" value="1786169952479" />
+        <request url="http://localhost:8080/api/fetch?mobileNumber=1234564">
+          <params>
+            <param name="mobileNumber" value="1234564" type="QUERY" dataType="String" />
+          </params>
+        </request>
+      </historyItem>
+      <historyItem>
+        <option name="timestamp" value="1786169883126" />
+        <request url="http://localhost:8080/api/fetch?mobileNumber=1234564">
+          <params>
+            <param name="mobileNumber" value="1234564" type="QUERY" dataType="String" />
+          </params>
+        </request>
+      </historyItem>
+      <historyItem>
+        <option name="timestamp" value="1786169860347" />
+        <request url="http://localhost:8080/api/fetch?mobileNumber=123456">
+          <params>
+            <param name="mobileNumber" value="123456" type="QUERY" dataType="String" />
+          </params>
+        </request>
+      </historyItem>
+      <historyItem>
+        <option name="timestamp" value="1786169845302" />
+        <request method="POST" url="http://localhost:8080/api/create">
+          <bodyContent>{
+  &quot;name&quot; : &quot;Ali&quot;,
+  &quot;email&quot; : &quot;ali@gmail.com&quot;,
+  &quot;mobileNumber&quot; : &quot;123456&quot;
+}</bodyContent>
+        </request>
+      </historyItem>
+      <historyItem>
+        <option name="timestamp" value="1786169792444" />
+        <request url="http://localhost:8080/api/fetch">
+          <params>
+            <param name="mobileNumber" value="" type="QUERY" dataType="String" />
+          </params>
+        </request>
+      </historyItem>
+      <historyItem>
+        <option name="timestamp" value="1786169766860" />
+        <request method="POST" url="http://localhost:8080/api/create">
+          <bodyContent>{
+  &quot;name&quot; : &quot;Ali&quot;,
+  &quot;email&quot; : &quot;ali@gmail.com&quot;,
+  &quot;mobileNumber&quot; : &quot;123456&quot;
+}</bodyContent>
+        </request>
+      </historyItem>
+      <historyItem>
+        <option name="timestamp" value="1786169733517" />
+        <request method="POST" url="http://localhost:8080/api/create">
+          <bodyContent>{
+  &quot;name&quot; : &quot;Ali&quot;,
+  &quot;email&quot; : &quot;ali@gmail.com&quot;,
+  &quot;mobileNumber&quot; : &quot;123456&quot;,
+}</bodyContent>
+        </request>
+      </historyItem>
+      <historyItem>
         <option name="timestamp" value="1785938474569" />
         <request method="POST" url="http://localhost:8080/api/create">
           <bodyContent>{

@@ -2,7 +2,16 @@
 <project version="4">
   <component name="UltimateRestApiCache">
     <cachedApis>
-      <api method="GET" url="/sayHello" className="com.eazybytes.accounts.controller.AccountsController" methodName="sayHello" moduleName="accounts" />
+      <api method="POST" url="/api/create" className="com.eazybytes.accounts.controller.AccountsController" methodName="createAccount" moduleName="accounts">
+        <params>
+          <param name="body" value="{&#13;&#10;  &quot;name&quot; : &quot;&quot;,&#13;&#10;  &quot;email&quot; : &quot;&quot;,&#13;&#10;  &quot;mobileNumber&quot; : &quot;&quot;,&#13;&#10;  &quot;accountsDto&quot; : {&#13;&#10;    &quot;accountNumber&quot; : 0,&#13;&#10;    &quot;accountType&quot; : &quot;&quot;,&#13;&#10;    &quot;branchAddress&quot; : &quot;&quot;&#13;&#10;  }&#13;&#10;}" type="BODY" dataType="CustomerDto" />
+        </params>
+      </api>
+      <api method="GET" url="/api/fetch" className="com.eazybytes.accounts.controller.AccountsController" methodName="fetchAccountDetails" moduleName="accounts">
+        <params>
+          <param name="mobileNumber" value="" type="QUERY" dataType="String" />
+        </params>
+      </api>
     </cachedApis>
   </component>
 </project>

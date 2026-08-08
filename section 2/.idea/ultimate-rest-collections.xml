@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="UltimateRestCollectionService">
+    <option name="rootNodes">
+      <list>
+        <node id="057234f1-02e4-4c67-8f09-cff8521fdd78" name="Default Collection" isFolder="true">
+          <option name="folder" value="true" />
+          <children>
+            <node id="7c5dc214-917e-4d5b-90c8-357159ed08c2" name="POST create Account">
+              <request name="POST create Account" method="POST" url="http://localhost:8080/api/create">
+                <bodyContent>{
+  &quot;name&quot; : &quot;Ali&quot;,
+  &quot;email&quot; : &quot;ali@gmail.com&quot;,
+  &quot;mobileNumber&quot; : &quot;123456&quot;
+}</bodyContent>
+              </request>
+            </node>
+            <node id="65ef8a94-d25c-4f97-b437-910dfcee7f49" name="GET fetch Account">
+              <request name="GET fetch Account" url="http://localhost:8080/api/fetch?mobileNumber=123456">
+                <params>
+                  <param name="mobileNumber" value="123456" type="QUERY" dataType="String" />
+                </params>
+              </request>
+            </node>
+          </children>
+        </node>
+      </list>
+    </option>
+  </component>
+</project>
