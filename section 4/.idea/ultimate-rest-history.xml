@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="UltimateRestHistory">
+    <items>
+      <historyItem>
+        <option name="timestamp" value="1787770337895" />
+        <request method="POST" url="http://localhost:8080/api/create">
+          <bodyContent>{
+  &quot;name&quot;: &quot;Ali Kariminejad&quot;,
+  &quot;email&quot;: &quot;kariminejad.ali.ak@gmail.com&quot;,
+  &quot;mobileNumber&quot;: &quot;9345432123&quot;
+}</bodyContent>
+        </request>
+      </historyItem>
+      <historyItem>
+        <option name="timestamp" value="1787770318205" />
+        <request method="POST" url="http://localhost:8080/api/create" bodyType="none">
+          <bodyContent />
+        </request>
+      </historyItem>
+      <historyItem>
+        <option name="timestamp" value="1787770317347" />
+        <request method="POST" url="http://localhost:8080/api/create" bodyType="none">
+          <bodyContent />
+        </request>
+      </historyItem>
+      <historyItem>
+        <option name="timestamp" value="1787770187849" />
+        <request method="POST" url="localhost:8080/api/create" bodyType="none">
+          <bodyContent />
+        </request>
+      </historyItem>
+      <historyItem>
+        <option name="timestamp" value="1787770187003" />
+        <request method="POST" url="localhost:8080/api/create" bodyType="none">
+          <bodyContent />
+        </request>
+      </historyItem>
+      <historyItem>
+        <option name="timestamp" value="1787770164554" />
+        <request method="POST" url="localhost:8080/api/create" bodyType="none">
+          <bodyContent />
+        </request>
+      </historyItem>
+    </items>
+  </component>
+</project>
