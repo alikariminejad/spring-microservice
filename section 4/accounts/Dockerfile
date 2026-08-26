@@ -1,5 +1,6 @@
 #Start with a base image containing Java runtime
-FROM openjdk:21-jdk-slim
+#FROM openjdk:21-jdk-slim
+FROM eclipse-temurin:21-jdk
 #Information around who maintains the image
 MAINTAINER eazybytes.com
 #Add the application's jar to the image
