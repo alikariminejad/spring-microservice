@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="UltimateRestApiCache">
+    <cachedApis>
+      <api method="POST" url="/api/create" className="com.eazybytes.cards.controller.CardsController" methodName="createCard" moduleName="cards" description="Create Card REST API">
+        <params>
+          <param name="mobileNumber" value="" type="QUERY" dataType="String" />
+        </params>
+      </api>
+      <api method="GET" url="/api/fetch" className="com.eazybytes.cards.controller.CardsController" methodName="fetchCardDetails" moduleName="cards" description="Fetch Card Details REST API">
+        <params>
+          <param name="mobileNumber" value="" type="QUERY" dataType="String" />
+        </params>
+      </api>
+      <api method="PUT" url="/api/update" className="com.eazybytes.cards.controller.CardsController" methodName="updateCardDetails" moduleName="cards" description="Update Card Details REST API">
+        <params>
+          <param name="body" value="{&#13;&#10;  &quot;mobileNumber&quot; : &quot;&quot;,&#13;&#10;  &quot;cardNumber&quot; : &quot;&quot;,&#13;&#10;  &quot;cardType&quot; : &quot;&quot;,&#13;&#10;  &quot;totalLimit&quot; : 0,&#13;&#10;  &quot;amountUsed&quot; : 0,&#13;&#10;  &quot;availableAmount&quot; : 0&#13;&#10;}" type="BODY" dataType="CardsDto" />
+        </params>
+      </api>
+      <api method="DELETE" url="/api/delete" className="com.eazybytes.cards.controller.CardsController" methodName="deleteCardDetails" moduleName="cards" description="Delete Card Details REST API">
+        <params>
+          <param name="mobileNumber" value="" type="QUERY" dataType="String" />
+        </params>
+      </api>
+      <api method="POST" url="/api/create" className="com.eazybytes.loans.controller.LoansController" methodName="createLoan" moduleName="loans" description="Create Loan REST API">
+        <params>
+          <param name="mobileNumber" value="" type="QUERY" dataType="String" />
+        </params>
+      </api>
+      <api method="GET" url="/api/fetch" className="com.eazybytes.loans.controller.LoansController" methodName="fetchLoanDetails" moduleName="loans" description="Fetch Loan Details REST API">
+        <params>
+          <param name="mobileNumber" value="" type="QUERY" dataType="String" />
+        </params>
+      </api>
+      <api method="PUT" url="/api/update" className="com.eazybytes.loans.controller.LoansController" methodName="updateLoanDetails" moduleName="loans" description="Update Loan Details REST API">
+        <params>
+          <param name="body" value="{&#13;&#10;  &quot;mobileNumber&quot; : &quot;&quot;,&#13;&#10;  &quot;loanNumber&quot; : &quot;&quot;,&#13;&#10;  &quot;loanType&quot; : &quot;&quot;,&#13;&#10;  &quot;totalLoan&quot; : 0,&#13;&#10;  &quot;amountPaid&quot; : 0,&#13;&#10;  &quot;outstandingAmount&quot; : 0&#13;&#10;}" type="BODY" dataType="LoansDto" />
+        </params>
+      </api>
+      <api method="DELETE" url="/api/delete" className="com.eazybytes.loans.controller.LoansController" methodName="deleteLoanDetails" moduleName="loans" description="Delete Loan Details REST API">
+        <params>
+          <param name="mobileNumber" value="" type="QUERY" dataType="String" />
+        </params>
+      </api>
+      <api method="POST" url="/api/create" className="com.eazybytes.accounts.controller.AccountsController" methodName="createAccount" moduleName="accounts" description="Create Account REST API">
+        <params>
+          <param name="body" value="{&#13;&#10;  &quot;name&quot; : &quot;&quot;,&#13;&#10;  &quot;email&quot; : &quot;&quot;,&#13;&#10;  &quot;mobileNumber&quot; : &quot;&quot;,&#13;&#10;  &quot;accountsDto&quot; : {&#13;&#10;    &quot;accountNumber&quot; : 0,&#13;&#10;    &quot;accountType&quot; : &quot;&quot;,&#13;&#10;    &quot;branchAddress&quot; : &quot;&quot;&#13;&#10;  }&#13;&#10;}" type="BODY" dataType="CustomerDto" />
+        </params>
+      </api>
+      <api method="GET" url="/api/fetch" className="com.eazybytes.accounts.controller.AccountsController" methodName="fetchAccountDetails" moduleName="accounts" description="Fetch Account REST API">
+        <params>
+          <param name="mobileNumber" value="" type="QUERY" dataType="String" />
+        </params>
+      </api>
+      <api method="PUT" url="/api/update" className="com.eazybytes.accounts.controller.AccountsController" methodName="updateAccountDetails" moduleName="accounts" description="Update Account REST API">
+        <params>
+          <param name="body" value="{&#13;&#10;  &quot;name&quot; : &quot;&quot;,&#13;&#10;  &quot;email&quot; : &quot;&quot;,&#13;&#10;  &quot;mobileNumber&quot; : &quot;&quot;,&#13;&#10;  &quot;accountsDto&quot; : {&#13;&#10;    &quot;accountNumber&quot; : 0,&#13;&#10;    &quot;accountType&quot; : &quot;&quot;,&#13;&#10;    &quot;branchAddress&quot; : &quot;&quot;&#13;&#10;  }&#13;&#10;}" type="BODY" dataType="CustomerDto" />
+        </params>
+      </api>
+      <api method="DELETE" url="/api/delete" className="com.eazybytes.accounts.controller.AccountsController" methodName="deleteAccountDetails" moduleName="accounts" description="Delete Account REST API">
+        <params>
+          <param name="mobileNumber" value="" type="QUERY" dataType="String" />
+        </params>
+      </api>
+      <api method="GET" url="/api/build-info" className="com.eazybytes.accounts.controller.AccountsController" methodName="getBuildInfo" moduleName="accounts" description="Get Build information" />
+    </cachedApis>
+  </component>
+</project>

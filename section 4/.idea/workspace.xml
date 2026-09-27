@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c173131b-cb68-402f-be16-01c3a477276b" name="Changes" comment="Generate Docker Image of Cards microservice with Google Jib">
-      <change afterPath="$PROJECT_DIR$/accounts/docker-compose.yml" afterDir="false" />
+    <list default="true" id="c173131b-cb68-402f-be16-01c3a477276b" name="Changes" comment="Introduction to Docker Compose">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -304,7 +303,15 @@
       <option name="project" value="LOCAL" />
       <updated>1788121192789</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Introduction to Docker Compose">
+      <option name="closed" value="true" />
+      <created>1788363240637</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1788363240637</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -334,6 +341,7 @@
     <MESSAGE value="Generate Docker Image of Accounts microservice with Dockerfile - Part 3" />
     <MESSAGE value="Generate Docker Image of Loans microservice with Buildpacks" />
     <MESSAGE value="Generate Docker Image of Cards microservice with Google Jib" />
-    <option name="LAST_COMMIT_MESSAGE" value="Generate Docker Image of Cards microservice with Google Jib" />
+    <MESSAGE value="Introduction to Docker Compose" />
+    <option name="LAST_COMMIT_MESSAGE" value="Introduction to Docker Compose" />
   </component>
 </project>

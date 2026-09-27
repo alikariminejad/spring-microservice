@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="UltimateRestHistory">
+    <items>
+      <historyItem>
+        <option name="timestamp" value="1790530686566" />
+        <request url="http://localhost:8080/api/build-info" />
+      </historyItem>
+    </items>
+  </component>
+</project>
