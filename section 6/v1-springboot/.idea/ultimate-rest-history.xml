@@ -3,6 +3,70 @@
   <component name="UltimateRestHistory">
     <items>
       <historyItem>
+        <option name="timestamp" value="1790531316792" />
+        <request url="http://localhost:8080/api/java-version" />
+      </historyItem>
+      <historyItem>
+        <option name="timestamp" value="1790531256960" />
+        <request url="http://localhost:8080/api/java-version" />
+      </historyItem>
+      <historyItem>
+        <option name="timestamp" value="1790531256726" />
+        <request url="http://localhost:8080/api/java-version" />
+      </historyItem>
+      <historyItem>
+        <option name="timestamp" value="1790531256577" />
+        <request url="http://localhost:8080/api/java-version" />
+      </historyItem>
+      <historyItem>
+        <option name="timestamp" value="1790531256433" />
+        <request url="http://localhost:8080/api/java-version" />
+      </historyItem>
+      <historyItem>
+        <option name="timestamp" value="1790531256277" />
+        <request url="http://localhost:8080/api/java-version" />
+      </historyItem>
+      <historyItem>
+        <option name="timestamp" value="1790531256120" />
+        <request url="http://localhost:8080/api/java-version" />
+      </historyItem>
+      <historyItem>
+        <option name="timestamp" value="1790531255974" />
+        <request url="http://localhost:8080/api/java-version" />
+      </historyItem>
+      <historyItem>
+        <option name="timestamp" value="1790531255808" />
+        <request url="http://localhost:8080/api/java-version" />
+      </historyItem>
+      <historyItem>
+        <option name="timestamp" value="1790531255629" />
+        <request url="http://localhost:8080/api/java-version" />
+      </historyItem>
+      <historyItem>
+        <option name="timestamp" value="1790531255475" />
+        <request url="http://localhost:8080/api/java-version" />
+      </historyItem>
+      <historyItem>
+        <option name="timestamp" value="1790531254576" />
+        <request url="http://localhost:8080/api/java-version" />
+      </historyItem>
+      <historyItem>
+        <option name="timestamp" value="1790531225429" />
+        <request url="http://localhost:8080/api/java-version" />
+      </historyItem>
+      <historyItem>
+        <option name="timestamp" value="1790531224676" />
+        <request url="http://localhost:8080/api/java-version" />
+      </historyItem>
+      <historyItem>
+        <option name="timestamp" value="1790531223677" />
+        <request url="http://localhost:8080/api/java-version" />
+      </historyItem>
+      <historyItem>
+        <option name="timestamp" value="1790531221544" />
+        <request url="http://localhost:8080/api/java-version" />
+      </historyItem>
+      <historyItem>
         <option name="timestamp" value="1790530686566" />
         <request url="http://localhost:8080/api/build-info" />
       </historyItem>
