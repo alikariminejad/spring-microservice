@@ -63,6 +63,8 @@
         </params>
       </api>
       <api method="GET" url="/api/build-info" className="com.eazybytes.accounts.controller.AccountsController" methodName="getBuildInfo" moduleName="accounts" description="Get Build information" />
+      <api method="GET" url="/api/java-version" className="com.eazybytes.accounts.controller.AccountsController" methodName="getJavaVersion" moduleName="accounts" description="Get Java version" />
+      <api method="GET" url="/api/contact-info" className="com.eazybytes.accounts.controller.AccountsController" methodName="getContactInfo" moduleName="accounts" description="Get Contact Info" />
     </cachedApis>
   </component>
 </project>

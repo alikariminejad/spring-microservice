@@ -3,6 +3,10 @@
   <component name="UltimateRestHistory">
     <items>
       <historyItem>
+        <option name="timestamp" value="1792657421533" />
+        <request url="http://localhost:8080/api/contact-info" />
+      </historyItem>
+      <historyItem>
         <option name="timestamp" value="1790531316792" />
         <request url="http://localhost:8080/api/java-version" />
       </historyItem>
