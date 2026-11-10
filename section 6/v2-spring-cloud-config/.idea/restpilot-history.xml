@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="UltimateRestHistory">
+    <items>
+      <historyItem>
+        <option name="timestamp" value="1794302907121" />
+        <request url="http://localhost:8080/api/java-version" bodyType="none">
+          <headers>
+            <param name="Accept" value="application/json" type="HEADER" dataType="String" />
+          </headers>
+        </request>
+      </historyItem>
+      <historyItem>
+        <option name="timestamp" value="1794302903404" />
+        <request url="http://localhost:8080/api/java-version" bodyType="none">
+          <headers>
+            <param name="Accept" value="application/json" type="HEADER" dataType="String" />
+          </headers>
+        </request>
+      </historyItem>
+      <historyItem>
+        <option name="timestamp" value="1794302901968" />
+        <request url="http://localhost:8080/api/java-version" bodyType="none">
+          <headers>
+            <param name="Accept" value="application/json" type="HEADER" dataType="String" />
+          </headers>
+        </request>
+      </historyItem>
+      <historyItem>
+        <option name="timestamp" value="1794302856677" />
+        <request url="http://localhost:8080/api/contact-info" bodyType="none">
+          <headers>
+            <param name="Accept" value="application/json" type="HEADER" dataType="String" />
+          </headers>
+        </request>
+      </historyItem>
+      <historyItem>
+        <option name="timestamp" value="1794302847760" />
+        <request url="http://localhost:8080/api/java-version" bodyType="none">
+          <headers>
+            <param name="Accept" value="application/json" type="HEADER" dataType="String" />
+          </headers>
+        </request>
+      </historyItem>
+      <historyItem>
+        <option name="timestamp" value="1794302846082" />
+        <request url="http://localhost:8080/api/java-version" bodyType="none">
+          <headers>
+            <param name="Accept" value="application/json" type="HEADER" dataType="String" />
+          </headers>
+        </request>
+      </historyItem>
+      <historyItem>
+        <option name="timestamp" value="1794302844051" />
+        <request url="http://localhost:8080/api/java-version" bodyType="none">
+          <headers>
+            <param name="Accept" value="application/json" type="HEADER" dataType="String" />
+          </headers>
+        </request>
+      </historyItem>
+      <historyItem>
+        <option name="timestamp" value="1794302834088" />
+        <request url="http://localhost:8080/api/build-info" bodyType="none">
+          <headers>
+            <param name="Accept" value="application/json" type="HEADER" dataType="String" />
+          </headers>
+        </request>
+      </historyItem>
+    </items>
+  </component>
+</project>

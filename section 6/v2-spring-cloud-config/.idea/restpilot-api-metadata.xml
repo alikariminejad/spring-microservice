@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="UltimateRestApiCache">
+    <cachedApis>
+      <api method="POST" url="/api/create" className="com.eazybytes.cards.controller.CardsController" methodName="createCard" moduleName="cards" description="Create Card REST API" bodyType="none" methodSignature="createCard(java.lang.String)" />
+      <api method="GET" url="/api/fetch" className="com.eazybytes.cards.controller.CardsController" methodName="fetchCardDetails" moduleName="cards" description="Fetch Card Details REST API" bodyType="none" methodSignature="fetchCardDetails(java.lang.String)" />
+      <api method="PUT" url="/api/update" className="com.eazybytes.cards.controller.CardsController" methodName="updateCardDetails" moduleName="cards" description="Update Card Details REST API" bodyType="raw (json)" methodSignature="updateCardDetails(com.eazybytes.cards.dto.CardsDto)" />
+      <api method="DELETE" url="/api/delete" className="com.eazybytes.cards.controller.CardsController" methodName="deleteCardDetails" moduleName="cards" description="Delete Card Details REST API" bodyType="none" methodSignature="deleteCardDetails(java.lang.String)" />
+      <api method="GET" url="/api/build-info" className="com.eazybytes.cards.controller.CardsController" methodName="getBuildInfo" moduleName="cards" description="Get Build information" bodyType="none" methodSignature="getBuildInfo()" />
+      <api method="GET" url="/api/java-version" className="com.eazybytes.cards.controller.CardsController" methodName="getJavaVersion" moduleName="cards" description="Get Java version" bodyType="none" methodSignature="getJavaVersion()" />
+      <api method="GET" url="/api/contact-info" className="com.eazybytes.cards.controller.CardsController" methodName="getContactInfo" moduleName="cards" description="Get Contact Info" bodyType="none" methodSignature="getContactInfo()" />
+      <api method="POST" url="/api/create" className="com.eazybytes.loans.controller.LoansController" methodName="createLoan" moduleName="loans" description="Create Loan REST API" bodyType="none" methodSignature="createLoan(java.lang.String)" />
+      <api method="GET" url="/api/fetch" className="com.eazybytes.loans.controller.LoansController" methodName="fetchLoanDetails" moduleName="loans" description="Fetch Loan Details REST API" bodyType="none" methodSignature="fetchLoanDetails(java.lang.String)" />
+      <api method="PUT" url="/api/update" className="com.eazybytes.loans.controller.LoansController" methodName="updateLoanDetails" moduleName="loans" description="Update Loan Details REST API" bodyType="raw (json)" methodSignature="updateLoanDetails(com.eazybytes.loans.dto.LoansDto)" />
+      <api method="DELETE" url="/api/delete" className="com.eazybytes.loans.controller.LoansController" methodName="deleteLoanDetails" moduleName="loans" description="Delete Loan Details REST API" bodyType="none" methodSignature="deleteLoanDetails(java.lang.String)" />
+      <api method="GET" url="/api/build-info" className="com.eazybytes.loans.controller.LoansController" methodName="getBuildInfo" moduleName="loans" description="Get Build information" bodyType="none" methodSignature="getBuildInfo()" />
+      <api method="GET" url="/api/java-version" className="com.eazybytes.loans.controller.LoansController" methodName="getJavaVersion" moduleName="loans" description="Get Java version" bodyType="none" methodSignature="getJavaVersion()" />
+      <api method="GET" url="/api/contact-info" className="com.eazybytes.loans.controller.LoansController" methodName="getContactInfo" moduleName="loans" description="Get Contact Info" bodyType="none" methodSignature="getContactInfo()" />
+      <api method="POST" url="/api/create" className="com.eazybytes.accounts.controller.AccountsController" methodName="createAccount" moduleName="accounts" description="Create Account REST API" bodyType="raw (json)" methodSignature="createAccount(com.eazybytes.accounts.dto.CustomerDto)" />
+      <api method="GET" url="/api/fetch" className="com.eazybytes.accounts.controller.AccountsController" methodName="fetchAccountDetails" moduleName="accounts" description="Fetch Account REST API" bodyType="none" methodSignature="fetchAccountDetails(java.lang.String)" />
+      <api method="PUT" url="/api/update" className="com.eazybytes.accounts.controller.AccountsController" methodName="updateAccountDetails" moduleName="accounts" description="Update Account REST API" bodyType="raw (json)" methodSignature="updateAccountDetails(com.eazybytes.accounts.dto.CustomerDto)" />
+      <api method="DELETE" url="/api/delete" className="com.eazybytes.accounts.controller.AccountsController" methodName="deleteAccountDetails" moduleName="accounts" description="Delete Account REST API" bodyType="none" methodSignature="deleteAccountDetails(java.lang.String)" />
+      <api method="GET" url="/api/build-info" className="com.eazybytes.accounts.controller.AccountsController" methodName="getBuildInfo" moduleName="accounts" description="Get Build information" bodyType="none" methodSignature="getBuildInfo()" />
+      <api method="GET" url="/api/java-version" className="com.eazybytes.accounts.controller.AccountsController" methodName="getJavaVersion" moduleName="accounts" description="Get Java version" bodyType="none" methodSignature="getJavaVersion()" />
+      <api method="GET" url="/api/contact-info" className="com.eazybytes.accounts.controller.AccountsController" methodName="getContactInfo" moduleName="accounts" description="Get Contact Info" bodyType="none" methodSignature="getContactInfo()" />
+    </cachedApis>
+  </component>
+</project>
